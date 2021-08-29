@@ -1,3 +1,7 @@
+run code
+1 npm i
+2 npm start
+
 # 
 You have been given a Json data file, create a endpoint “/records” which will return json data.
 
